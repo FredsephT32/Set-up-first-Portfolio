@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.nav-bar {
+background-color: white;
+display: flex;
+flex-direction: row;
+align-items: center;
+max-width: 400px;  
+padding: 10px 12px;
+justify-content: space-between;
+}
+
+.headline {
+background-image: url("./Images/header-shapes\ mobile.png");
+background-repeat: no-repeat;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 20px 10px;
+position: absolute;
+width: 400px;
+}
+
+.cheers-txt {
+font-family: "Poppins";
+width: 300px;
+min-height: 150px;
+font-weight: 700;
+font-size: 40px;
+display: flex;
+align-items: center;
+color: #172b4d;
+}
+
+.Greetings-txt .main-headline-txt {
+width: 327px;
+min-height: 192px;
+}
+
+.Greetings-txt h2 {
+font-family: 'Poppins', sans-serif;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+text-align: center;
+}
+
+.cheers-txt {
+color: #172b4d;
+}
+
+.main-headline-txt p {
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+color: #481060;
+width: 327px;
+min-height: 164px;
+}
+
+.Logo {
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 900vw;
+font-size: 20px;
+line-height: 28vh;
+}
+
+.connect{
+font-family: 'Poppins';
+color: aqua;
+font-size: medium;
+}
+
+.media-Images {
+display: flex;
+width: 200px;
+padding: 20px 20px;
+justify-content: space-between;
+}
