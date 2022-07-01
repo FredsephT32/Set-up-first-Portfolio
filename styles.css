@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
 * {
   margin: 0;
@@ -71,7 +71,7 @@
 .Logo {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
-  color: aquamarine;
+  color: purple;
   font-weight: bolder;
   font-size: 20px;
   line-height: 28vh;
