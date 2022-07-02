@@ -25,8 +25,8 @@
 
 👤 **Author Frederick**
 
-- GitHub: [@githubhandle](https://github.com/FredsephT32)
-- Twitter: [@twitterhandle](https://twitter.com/Frederi70813362)
+- GitHub: [@FredsephT32](https://github.com/FredsephT32)
+- Twitter: [@lil Fritz](https://twitter.com/Frederi70813362)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/frederick-torres-900b4a196/)
 
 
