@@ -250,7 +250,7 @@ button:hover {
   color: #172b4d;
 }
 
-.catapulte li {
+.catapulte-container li {
   list-style: none;
   display: flex;
   justify-content: space-between;
