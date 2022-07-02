@@ -46,17 +46,11 @@ body {
   color: #172b4d;
 }
 
-.Greetings-txt .main-headline-txt {
-  width: 327px;
-  min-height: 192px;
-}
-
 .Greetings-txt h2 {
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
-  text-align: center;
 }
 
 .main-headline-txt p {
@@ -64,8 +58,7 @@ body {
   font-weight: 400px;
   font-size: 18px;
   line-height: 28px;
-  text-align: center;
-  color: #481060;
+  color: #344563;
   width: 327px;
 }
 
@@ -85,6 +78,8 @@ body {
   color: aqua;
   font-size: medium;
   border: none;
+  padding: 20px 20px;
+  gap: 24px;
 }
 
 .media-Images ul {
@@ -95,6 +90,10 @@ body {
   padding: 20px 20px;
   justify-content: space-between;
   gap: 5px;
+}
+
+button:hover {
+  cursor: pointer;
 }
 
 .all-cards {
@@ -111,7 +110,7 @@ body {
   display: flex;
   justify-content: space-between;
   flex-direction: column;
-  gap: 12px;
+  gap: 14px;
   width: 100%;
 }
 
@@ -135,6 +134,16 @@ body {
   height: 8px;
   border-radius: 16px;
   background-color: #C1C7D0;
+}
+
+.card-txt {
+  font-family: 'Poppins', sans-serif;
+  color: #344563;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
 }
 
 .card-1 {
@@ -176,21 +185,81 @@ body {
 
 .big-txt {
   font-family: 'Poppins', sans-serif;
-  font-size: larger;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
   color: #172B4D;
 }
 
-.program-buttons {
-  justify-content: space-between;
+.prog ul {
+  list-style: none;
   flex-direction: row;
+  display: flex;
+  column-gap: 10px;
+}
+
+.prog button {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  color: #6070FF;
+  border-radius: 8px;
+  background: #EBEBFF;
+  border: none;
+  padding: 4px 12px 4px 12px;
+}
+
+.project-check button {
+  background: transparent;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #396DF2;
+  padding: 12px;
+  border: 1px solid #6070FF;
+  border-radius: 8px;
+  margin-left: 16px;
+}
+
+.headline-2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  padding: 114px 24px;
+  gap: 12px;
+  width: 100%;
+}
+
+.Greetings-2-txt h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  text-align: center;
+}
+
+.cheers-2-txt {
+  font-family: "Poppins", sans-serif;
+  width: 300px;
+  min-height: 150px;
+  font-weight: 700;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  color: #172b4d;
+}
+
+.catapulte li {
   list-style: none;
   display: flex;
-  flex-direction: row;
-  align-items: center;
-  column-gap: 20px;
-  padding: 4px 12px;
-  width: 53px;
-  height: 24px;
-  background: #EBEBFF;
-  border-radius: 8px;
+  justify-content: space-between;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  margin: 24px;
+  gap: 40px;
 }
