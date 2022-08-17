@@ -10,7 +10,6 @@ body {
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
-  align-items: center;
 }
 
 .header-bar {
@@ -23,7 +22,16 @@ body {
   width: 100%;
 }
 
-.headline {
+.Logo {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  color:slateblue;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.headline-1 {
   background-image: url("./Images/header-shapes\ mobile.png");
   background-size: cover;
   display: flex;
@@ -56,15 +64,6 @@ body {
   width: 327px;
 }
 
-.Logo {
-  font-family: 'Poppins', sans-serif;
-  font-style: normal;
-  color:slateblue;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 20px;
-}
-
 .connect .small-txt {
   background: transparent;
   font-family: 'Poppins', sans-serif;
@@ -73,8 +72,9 @@ body {
   font-size: 16px;
   line-height: 24px;
   border: none;
-  padding: 20px 20px;
-  gap: 24px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
 
 .media-Images ul {
@@ -84,7 +84,6 @@ body {
   width: 200px;
   padding: 20px 20px;
   justify-content: space-between;
-  gap: 5px;
 }
 
 button:hover {
