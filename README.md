@@ -1,12 +1,5 @@
-# Frederick's Portfolio: setup and mobile version skeleton
-
-## My Learning Objectives were
-
-- Learning objectives.
-- Understand how to parse a Figma design to create a UI.
-- Flexbox to place elements in the page.
-- Build a personal portfolio site.
-- Use images and backgrounds to enhance the look of the website.
+# Fritz-s-Portfolio-Set-Up
+Understand how to parse a Figma design to create a UI and Flexbox to place elements in the page.
 
 ## General Requirements 
 
@@ -29,7 +22,22 @@
 - Twitter: [@lil Fritz](https://twitter.com/Frederi70813362)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/frederick-torres-900b4a196/)
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a 👌 if you like this project!
+
+## Acknowledgments
+
+- Inspiration Microverse Figma Template 1
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
